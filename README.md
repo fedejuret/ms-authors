@@ -10,3 +10,4 @@
 - Generate random API key you can use <http://www.unit-conversion.info/texttools/random-string-generator/> and set it in
 .env > ACCEPTED_SECRETS
 - Then run ``` php -S localhost:8000 -t ./public ```
+ 
